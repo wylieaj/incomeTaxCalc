@@ -25,7 +25,7 @@ const Results = ({ salary }) => {
                 <tr key={i}>
                   <td className="tableHeader">{result.period}</td>
                   <td>{formatter.format(result.gross)}</td>
-                  <td>{formatter.format(result.takeHome)}</td>
+                  <td className="takeHome">{formatter.format(result.takeHome)}</td>
                   <td>{formatter.format(result.incomeTax)}</td>
                   <td>{formatter.format(result.ni)}</td>
                 </tr>
