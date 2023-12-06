@@ -1,2 +1,1 @@
-- ![Screenshot from 2023-12-03 23-59-09](https://github.com/wylieaj/incomeTaxCalc/assets/121959169/310e5976-ee61-433a-9d68-a1d4bef10f04)
-
+![Screenshot from 2023-12-04 00-18-52](https://github.com/wylieaj/incomeTaxCalc/assets/121959169/1f11bb65-fd22-4dd1-8770-f483cae07cf8)
