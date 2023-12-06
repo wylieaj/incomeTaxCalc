@@ -4,11 +4,11 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        header: ['"Montserrat"', "san-serif"],
+        header: ['"Roboto"', "san-serif"],
       },
       colors: {
-        primary: "#0d1b2a",
-        secondary: "#415a77",
+        primary: "#2A2B2E",
+        secondary: "#E94F37",
       },
     },
   },
