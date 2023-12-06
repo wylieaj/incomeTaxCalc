@@ -10,7 +10,7 @@ const Results = ({ salary }) => {
         </div>
       ) : (
         <table id="result" className="table mx-auto font-header text-primary mb-10">
-          <thead className="table-header-group font-semibold">
+          <thead className="table-header-group font-semibold border-b-2 border-black">
             <tr className="text-2xl text-right table-row">
               <td className="pl-5">
                 <div></div>
