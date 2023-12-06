@@ -4,7 +4,7 @@ import IncomeField from "./Components/IncomeField/IncomeField";
 import Results from "./Components/Results/Results";
 
 function App() {
-  const [salary, setSalary] = useState({ currSalary: 0 });
+  const [salary, setSalary] = useState({ currSalary: "" });
 
   const updateSalary = (evt) => {
     const field = evt.target.name;
