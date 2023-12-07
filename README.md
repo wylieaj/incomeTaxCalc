@@ -4,4 +4,5 @@ CSS
 
 Tailwind CSS
 
-![Screenshot from 2023-12-06 18-26-47](https://github.com/wylieaj/incomeTaxCalc/assets/121959169/bceb244c-602f-42bb-b901-d0ea175afaa8)
+![Screenshot from 2023-12-07 04-14-32](https://github.com/wylieaj/incomeTaxCalc/assets/121959169/bed1be7f-f612-4802-8432-af37b080e75b)
+
