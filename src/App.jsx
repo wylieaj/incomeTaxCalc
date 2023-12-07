@@ -6,7 +6,7 @@ import Results from "./Components/Results/Results";
 function App() {
   const [salary, setSalary] = useState({ currSalary: "" });
 
-  const updateSalary = (evt) => {
+  const salaryOnChange = (evt) => {
     const field = evt.target.name;
     const value = evt.target.value;
     setSalary((prevSalary) => {
@@ -16,8 +16,7 @@ function App() {
   return (
     <>
       <Header />
-      <IncomeField salary={salary} updateSalary={updateSalary} />
-      <Results salary={salary} />
+      <IncomeField salary={salary} salaryOnChange={salaryOnChange} />
     </>
   );
 }
